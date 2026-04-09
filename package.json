@@ -1,7 +1,7 @@
 {
   "name": "xcode-inspired-theme",
   "displayName": "Xcode Inspired Dark",
-  "description": "A Visual Studio Code theme that mirrors the native Xcode dark palette.",
+  "description": "A VS Code theme that recreates the native Xcode dark look with familiar blue accents and rich syntax colors.",
   "version": "0.1.0",
   "publisher": "sapryniukt",
   "license": "MIT",

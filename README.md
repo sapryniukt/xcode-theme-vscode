@@ -1,6 +1,6 @@
 # Xcode Inspired Dark Theme
 
-A Visual Studio Code theme that recreates the dark Xcode coding experience, including the familiar blue focus states, soft gutter contrast, and vibrant syntax hues.
+Xcode Inspired Dark is a Visual Studio Code theme that brings the native Xcode dark appearance to VS Code, with familiar blue accents, balanced contrast, and rich syntax colors.
 
 ## Prerequisites
 - [Node.js](https://nodejs.org/) 18+
